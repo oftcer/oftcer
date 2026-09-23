@@ -1,12 +1,4 @@
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python&amp;theme=dark" width="26" height="26" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=powershell&amp;theme=dark" width="26" height="26" alt="PowerShell" />
-  <img src="https://skillicons.dev/icons?i=md&amp;theme=dark" width="26" height="26" alt="Markdown" />
-  <img src="https://skillicons.dev/icons?i=git&amp;theme=dark" width="26" height="26" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github&amp;theme=dark" width="26" height="26" alt="GitHub" />
-</p>
-
-<p align="center">
   <img src="assets/oftcer.gif" alt="Oftcer" width="240" />
 </p>
 
@@ -15,11 +7,19 @@
 </p>
 
 <p align="center">
-  <img src="assets/about.gif" alt="Empresa de software focada em segurança cibernética, inteligência artificial, engenharia de software e inteligência OSINT." width="680" />
+  <a href="https://oftcer.com"><img src="assets/site.gif" alt="oftcer.com" height="22" /></a>
 </p>
 
 <p align="center">
-  <a href="https://oftcer.com"><img src="assets/site.gif" alt="oftcer.com" height="22" /></a>
+  <img src="https://skillicons.dev/icons?i=python&amp;theme=dark" width="28" height="28" alt="Python" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=powershell&amp;theme=dark" width="28" height="28" alt="PowerShell" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=md&amp;theme=dark" width="28" height="28" alt="Markdown" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=git&amp;theme=dark" width="28" height="28" alt="Git" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=github&amp;theme=dark" width="28" height="28" alt="GitHub" />
 </p>
 
 ## Projetos
