@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/oftcer.gif" alt="Oftcer" width="240" />
+  <img src="assets/oftcer.svg" alt="Oftcer" width="240" />
 </p>
 
 <p align="center">
