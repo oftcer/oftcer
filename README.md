@@ -4,7 +4,7 @@
 
 <!-- 🎬 Banner -->
 <p align="center">
-  <img src="assets/banner.gif" alt="banner" width="500" />
+  <img src="assets/banner.png" alt="banner" width="500" />
 </p>
 
 <!-- Identidade -->
