@@ -4,7 +4,7 @@
 
 <!-- 🎬 Banner -->
 <p align="center">
-  <img src="https://i.im.ge/2024/07/17/V3sog1.gif-3.gif" alt="banner" width="500" />
+  <img src="assets/banner.gif" alt="banner" width="500" />
 </p>
 
 <!-- Identidade -->
