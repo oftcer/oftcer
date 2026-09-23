@@ -3,23 +3,38 @@
 </p>
 
 <p align="center">
-  <img src="assets/tagline.gif" alt="Cybersecurity · AI · Software Engineering · OSINT Intelligence" width="720" />
+  <img src="assets/tagline.svg" alt="Cybersecurity · AI · Software Engineering · OSINT Intelligence" width="720" />
 </p>
 
 <p align="center">
-  <a href="https://oftcer.com"><img src="assets/site.gif" alt="oftcer.com" height="22" /></a>
+  <a href="https://oftcer.com"><img src="assets/btn-site.svg" alt="oftcer.com" height="26" /></a>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python&amp;theme=dark" width="28" height="28" alt="Python" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python&amp;theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python&amp;theme=light" width="28" height="28" alt="Python" />
+  </picture>
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=powershell&amp;theme=dark" width="28" height="28" alt="PowerShell" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=powershell&amp;theme=dark" />
+    <img src="https://skillicons.dev/icons?i=powershell&amp;theme=light" width="28" height="28" alt="PowerShell" />
+  </picture>
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=md&amp;theme=dark" width="28" height="28" alt="Markdown" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=md&amp;theme=dark" />
+    <img src="https://skillicons.dev/icons?i=md&amp;theme=light" width="28" height="28" alt="Markdown" />
+  </picture>
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=git&amp;theme=dark" width="28" height="28" alt="Git" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git&amp;theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git&amp;theme=light" width="28" height="28" alt="Git" />
+  </picture>
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=github&amp;theme=dark" width="28" height="28" alt="GitHub" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=github&amp;theme=dark" />
+    <img src="https://skillicons.dev/icons?i=github&amp;theme=light" width="28" height="28" alt="GitHub" />
+  </picture>
 </p>
 
 ## Projetos
@@ -36,35 +51,35 @@
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://skillicons.dev/icons?i=python&amp;theme=dark" width="22" height="22" alt="Python" /></td>
+      <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python&amp;theme=dark" /><img src="https://skillicons.dev/icons?i=python&amp;theme=light" width="22" height="22" alt="Python" /></picture></td>
       <td><a href="https://github.com/oftcer/Analiseware"><strong>Analiseware</strong></a></td>
       <td>Cybersecurity</td>
       <td>Python</td>
       <td>Scanner defensivo Windows: processos, inicialização, portas, apps, hosts e rede</td>
     </tr>
     <tr>
-      <td><img src="https://skillicons.dev/icons?i=powershell&amp;theme=dark" width="22" height="22" alt="PowerShell" /></td>
+      <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=powershell&amp;theme=dark" /><img src="https://skillicons.dev/icons?i=powershell&amp;theme=light" width="22" height="22" alt="PowerShell" /></picture></td>
       <td><a href="https://github.com/oftcer/BlockScanners"><strong>BlockScanners</strong></a></td>
       <td>Cybersecurity</td>
       <td>PowerShell</td>
       <td>Bloqueio no firewall do Windows para scanners públicos</td>
     </tr>
     <tr>
-      <td><img src="https://skillicons.dev/icons?i=md&amp;theme=dark" width="22" height="22" alt="Markdown" /></td>
+      <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=md&amp;theme=dark" /><img src="https://skillicons.dev/icons?i=md&amp;theme=light" width="22" height="22" alt="Markdown" /></picture></td>
       <td><a href="https://github.com/oftcer/defesa-contra-infostealers"><strong>Defesa contra info stealers</strong></a></td>
       <td>Cybersecurity</td>
       <td>Markdown</td>
       <td>Proteção, detecção e resposta contra info stealers</td>
     </tr>
     <tr>
-      <td><img src="https://skillicons.dev/icons?i=python&amp;theme=dark" width="22" height="22" alt="Python" /></td>
+      <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python&amp;theme=dark" /><img src="https://skillicons.dev/icons?i=python&amp;theme=light" width="22" height="22" alt="Python" /></picture></td>
       <td><a href="https://github.com/oftcer/forsearch"><strong>ForSearch</strong></a></td>
       <td>OSINT Intelligence</td>
       <td>Python</td>
       <td>Busca de palavras-chave em grande escala</td>
     </tr>
     <tr>
-      <td><img src="https://skillicons.dev/icons?i=python&amp;theme=dark" width="22" height="22" alt="Python" /></td>
+      <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python&amp;theme=dark" /><img src="https://skillicons.dev/icons?i=python&amp;theme=light" width="22" height="22" alt="Python" /></picture></td>
       <td><a href="https://github.com/oftcer/VeltShell"><strong>VeltShell</strong></a></td>
       <td>Software Engineering</td>
       <td>Python</td>

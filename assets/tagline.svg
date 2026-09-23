@@ -1,3 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="980" height="40" viewBox="0 0 980 40">
-  <text x="490" y="28" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#f0f6fc">Cybersecurity   ·   AI   ·   Software Engineering   ·   OSINT Intelligence</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="44" viewBox="0 0 880 44">
+  <style>
+    .sep { fill: #6e7781; }
+    @media (prefers-color-scheme: dark) {
+      .sep { fill: #8b949e; }
+    }
+  </style>
+  <text x="440" y="30" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#2f81f7"><tspan fill="#2f81f7">Cybersecurity<animate attributeName="fill" values="#2f81f7;#8957e5;#d6409f;#e5534b;#e8590c;#2f81f7" dur="12s" begin="0s" repeatCount="indefinite"/></tspan> <tspan class="sep">·</tspan> <tspan fill="#8957e5">AI<animate attributeName="fill" values="#2f81f7;#8957e5;#d6409f;#e5534b;#e8590c;#2f81f7" dur="12s" begin="-2.4s" repeatCount="indefinite"/></tspan> <tspan class="sep">·</tspan> <tspan fill="#d6409f">Software Engineering<animate attributeName="fill" values="#2f81f7;#8957e5;#d6409f;#e5534b;#e8590c;#2f81f7" dur="12s" begin="-4.8s" repeatCount="indefinite"/></tspan> <tspan class="sep">·</tspan> <tspan fill="#e5534b">OSINT Intelligence<animate attributeName="fill" values="#2f81f7;#8957e5;#d6409f;#e5534b;#e8590c;#2f81f7" dur="12s" begin="-7.2s" repeatCount="indefinite"/></tspan></text>
 </svg>

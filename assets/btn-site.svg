@@ -1,4 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="118" height="28" viewBox="0 0 118 28">
-  <rect width="118" height="28" rx="6" fill="#1f6feb"/>
+  <style>
+    .bg { stroke: rgba(0,0,0,0.12); stroke-width: 1; }
+    @media (prefers-color-scheme: dark) {
+      .bg { stroke: rgba(255,255,255,0.16); }
+    }
+  </style>
+  <rect class="bg" x="0.5" y="0.5" width="117" height="27" rx="6" fill="#2f81f7">
+    <animate attributeName="fill" values="#2f81f7;#8957e5;#d6409f;#e5534b;#e8590c;#2f81f7" dur="12s" begin="-3.6s" repeatCount="indefinite"/>
+  </rect>
   <text x="59" y="19" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#ffffff">oftcer.com</text>
 </svg>

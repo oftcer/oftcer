@@ -1,3 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="420" height="96" viewBox="0 0 420 96">
-  <text x="210" y="66" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="64" font-weight="700" fill="#ffffff" stroke="#8b949e" stroke-width="1.25" paint-order="stroke">Oftcer</text>
+  <defs>
+    <linearGradient id="sweep" gradientUnits="userSpaceOnUse" x1="-280" y1="0" x2="0" y2="0" spreadMethod="repeat">
+      <stop offset="0" stop-color="#2f81f7"/>
+      <stop offset="0.1429" stop-color="#8957e5"/>
+      <stop offset="0.2857" stop-color="#d6409f"/>
+      <stop offset="0.4286" stop-color="#e5534b"/>
+      <stop offset="0.5714" stop-color="#e8590c"/>
+      <stop offset="0.7143" stop-color="#d6409f"/>
+      <stop offset="0.8571" stop-color="#8957e5"/>
+      <stop offset="1" stop-color="#2f81f7"/>
+      <animate attributeName="x1" values="-280;0" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0;280" dur="5s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <text x="210" y="66" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="64" font-weight="700" fill="url(#sweep)">Oftcer</text>
 </svg>
