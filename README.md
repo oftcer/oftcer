@@ -1,21 +1,25 @@
 <p align="center">
-  <img src="assets/oftcer.gif" alt="Oftcer" width="280" />
+  <img src="https://skillicons.dev/icons?i=python&amp;theme=dark" width="26" height="26" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=powershell&amp;theme=dark" width="26" height="26" alt="PowerShell" />
+  <img src="https://skillicons.dev/icons?i=md&amp;theme=dark" width="26" height="26" alt="Markdown" />
+  <img src="https://skillicons.dev/icons?i=git&amp;theme=dark" width="26" height="26" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github&amp;theme=dark" width="26" height="26" alt="GitHub" />
 </p>
 
 <p align="center">
-  <img src="assets/tagline.gif" alt="Cybersecurity · AI · Software Engineering · OSINT Intelligence" width="760" />
+  <img src="assets/oftcer.gif" alt="Oftcer" width="240" />
 </p>
 
 <p align="center">
-  <img src="assets/about.gif" alt="Empresa de software focada em segurança cibernética, inteligência artificial, engenharia de software e inteligência OSINT." width="720" />
+  <img src="assets/tagline.gif" alt="Cybersecurity · AI · Software Engineering · OSINT Intelligence" width="720" />
 </p>
 
 <p align="center">
-  <a href="https://oftcer.com"><img src="assets/btn-site.svg" alt="oftcer.com" width="118" height="28" /></a>
+  <img src="assets/about.gif" alt="Empresa de software focada em segurança cibernética, inteligência artificial, engenharia de software e inteligência OSINT." width="680" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,powershell,markdown,git,github&amp;theme=dark" width="150" alt="Python, PowerShell, Markdown, Git, GitHub" />
+  <a href="https://oftcer.com"><img src="assets/site.gif" alt="oftcer.com" height="22" /></a>
 </p>
 
 ## Projetos
